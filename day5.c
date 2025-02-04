@@ -17,4 +17,4 @@ int main()
      temp+= b;
      printf("your number is : %d\n", temp);
      
-    } return 0;
+    }
